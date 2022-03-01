@@ -44,7 +44,7 @@ func makeCodeLines() -> [String] {
     codeLines.append("import SwiftUI")
     codeLines.append("")
     codeLines.append("@available(iOS 13.0, watchOS 6.0, macOS 10.15, tvOS 13.0, *)")
-    codeLines.append("extension Color {")
+    codeLines.append("public extension Color {")
     return codeLines
 }
 
