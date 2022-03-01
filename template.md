@@ -5,6 +5,8 @@ Colors is designed to provide a quick and convenient way to access a range of co
 ## Usage
 
 ```swift
+    import Colors
+    // ...
     Text("Hello, World").background(Color.gray100)
 ```
 
