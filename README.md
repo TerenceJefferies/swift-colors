@@ -2,7 +2,7 @@
 
 Colors is designed to provide a quick and convenient way to access a range of colors via SwiftUI's `Color` object. Inspiration for this package came from Chakra UI's color definitions: https://github.com/chakra-ui/chakra-ui
 
-## Usage
+## Usage
 
 ```swift
     Text("Hello, World").background(Color.gray100)
